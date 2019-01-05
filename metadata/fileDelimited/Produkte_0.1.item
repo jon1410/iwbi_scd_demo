@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_hwGvkAkCEem-md_e93jRNQ" name="Produkte" dataPackage="_hwGvkQkCEem-md_e93jRNQ" Server="Localhost 127.0.0.1" FilePath="C:/Users/ivanj/Desktop/IUBH/IWBI/Testdaten/Produkte.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorType="Custom String" RowSeparatorValue="&quot;\r\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_hwGvkQkCEem-md_e93jRNQ" name="default" dataManager="_hwGvkAkCEem-md_e93jRNQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_hwGvkgkCEem-md_e93jRNQ" id="_Q5ohsAkCEem-md_e93jRNQ" label="produktMetadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_qvbOMAwnEemZBpi61aT8DA" label="ProdGruppeKuerzel" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_qvbOMQwnEemZBpi61aT8DA" label="ProdGruppeBez" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_qvbOMgwnEemZBpi61aT8DA" label="ProdKuerzel" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_qvbOMwwnEemZBpi61aT8DA" label="ProdBezeichnung" length="26" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

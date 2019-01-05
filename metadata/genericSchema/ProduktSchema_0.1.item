@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_rE2G0AkBEem-md_e93jRNQ" comment="connectionComment" label="connectionLabel" dataPackage="_rE2G0QkBEem-md_e93jRNQ"/>
+  <TalendMetadata:GenericPackage xmi:id="_rE2G0QkBEem-md_e93jRNQ" dataManager="_rE2G0AkBEem-md_e93jRNQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_rE2G0gkBEem-md_e93jRNQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rE2G0wkBEem-md_e93jRNQ" name="ProdGruppeKuerzel" id="32" label="ProdGruppeKuerzel" length="2" precision="-1" sourceType="" talendType="id_String" key="true" nullable="false">
+        <initialValue xmi:id="_rE3U8AkBEem-md_e93jRNQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rE3U8QkBEem-md_e93jRNQ" name="ProdGruppeBez" id="33" label="ProdGruppeBez" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_rE3U8gkBEem-md_e93jRNQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rE3U8wkBEem-md_e93jRNQ" name="ProdKuerzel" id="34" label="ProdKuerzel" length="4" precision="-1" sourceType="" talendType="id_String" key="true" nullable="false">
+        <initialValue xmi:id="_rE3U9AkBEem-md_e93jRNQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rE3U9QkBEem-md_e93jRNQ" name="ProdBezeichnung" id="35" label="ProdBezeichnung" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_rE3U9gkBEem-md_e93jRNQ"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

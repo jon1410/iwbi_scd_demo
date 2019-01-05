@@ -1,0 +1,7 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_1=>" expression="">
+  <variables name="row1.ProdGruppeKuerzel" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.ProdGruppeBez" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.ProdKuerzel" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.ProdBezeichnung" value="null" talendType="id_String" nullable="true"/>
+</expression:EMFExpression>
